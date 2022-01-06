@@ -1,0 +1,17 @@
+{
+    "name": "shojibflamon/registry-design-pattern",
+    "description": "Design Pattern - Registry",
+    "autoload": {
+        "psr-4": {
+            "Shojibflamon\\RegistryDesignPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jahidul Islam",
+            "email": "shojib.seu@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
